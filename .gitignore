@@ -1,6 +1,15 @@
 # Prerequisites
 *.d
 /node_modules/
+*.xd
+*.fig
+*.sketch
+.DS_Store
+
+
+
+
+
 # Object files
 *.o
 *.ko
